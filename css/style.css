@@ -1,0 +1,54 @@
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    
+}
+
+body {
+color: black;
+background-color: #eee;
+background-image: linear-gradient(45deg, #FFA398 25%, transparent 25%, transparent 75%, #FFA398 75%, #FFA398), 
+linear-gradient(45deg, #FFA398 25%, transparent 25%, transparent 75%, #FFA398 75%, #FFA398);
+background-size:60px 60px;
+background-position:0 0, 30px 30px
+}
+
+.title { 
+  text-align: center;
+  font-family: papyrus;
+  font-size: 70px
+}
+.food {text-align: center;
+  font-family: papyrus;
+  font-size: 40px
+}
+.store {text-align: center;
+  font-family: papyrus;
+  font-size: 40px
+}
+
+
+
+.sport {text-align: center;
+  font-family: papyrus;
+  font-size: 40px
+}
+
+.tvshow {text-align: center;
+  font-family: papyrus;
+  font-size: 40px
+}
+
+.singer {text-align: center;
+  font-family: papyrus;
+  font-size: 40px
+}
+.animal {text-align: center;
+  font-family: papyrus;
+  font-size: 40px
+}
+
+
